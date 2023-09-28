@@ -1,0 +1,20 @@
+@import '../node_modules/@syncfusion/ej2-layouts/styles/fluent.css';
+@import "../node_modules/@syncfusion/ej2-base/styles/fluent.css";
+@import "../node_modules/@syncfusion/ej2-buttons/styles/fluent.css";
+.App{
+  text-align: center;
+  width: 50%;
+  padding-left: 25%;
+  padding-top: 20px;
+}
+
+.e-card .e-card-image {
+ background-image: url('https://ej2.syncfusion.com/react/demos/src/card/images/vertical_img.png');
+} 
+
+ .e-card-header-image{
+  background-image: url('https://ej2.syncfusion.com/react/demos/src/card/images/vertical_img.png');
+}
+.e-btn{
+  margin: 10px;
+}
