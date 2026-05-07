@@ -1,6 +1,5 @@
 # Getting Started with the React Card Component
 
-**Repository Description**  
 This repository contains a quick‑start React sample that demonstrates how to create and configure the Syncfusion React Card component within a React application.
 
 A quick start project that shows how to create and configure the Syncfusion React Card component in a React project. This sample explains how to add headers, content, images, horizontal layouts, and action buttons to the Card component.
